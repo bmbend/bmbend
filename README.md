@@ -1,4 +1,4 @@
-# Hi, I'm Brooke. 👋
+# Hi, I'm Brooke Bend👩‍💻
 
 I'm a Business Analytics and Information Systems major at the University of Iowa Tippie College of Business.
 
