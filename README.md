@@ -23,4 +23,3 @@ I'm a Business Analytics and Information Systems major at the University of Iowa
 
 - 📄 Resume: [brookebend-resume.pdf](https://brookebend.com/brookebend-resume.pdf)
 - 🔗 LinkedIn: https://www.linkedin.com/in/brookebend
-- 💻 GitHub: https://github.com/bmbend
